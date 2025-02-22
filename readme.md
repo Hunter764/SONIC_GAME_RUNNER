@@ -37,4 +37,4 @@ The game is **WebGL-compatible** and runs directly in a browser.
 I built this project to explore **Kaplay.js for game development**, handling game physics, UI updates, and browser-based deployment without a game engine. This approach provides greater flexibility and control over performance.
 
 Let me know if you have feedback or suggestions! 🚀
-# SONIC_GAME_RUNNER
+
